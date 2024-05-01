@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jspharry&label=Profile%20views&color=0e75b6&style=flat" alt="jspharry" /> </p>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **Improving MYSELF**
 
 - 🌱 I’m currently learning **Python, C, Javascript, PHP, SQL, Hacking, Bug Hunting, Cryptography.**
 
